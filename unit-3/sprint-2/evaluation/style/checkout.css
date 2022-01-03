@@ -1,0 +1,26 @@
+input , label , textarea{
+	display: block;
+	margin-bottom: 10px;
+}
+
+div{
+	display: flex;
+	justify-content: center;
+}
+
+form{
+	border: 1px solid #eee;
+	display: inline-block;
+	padding:20px;
+}
+
+input{
+	padding: 10px 50px;
+	border: 1px solid #eee;
+
+}
+textarea{
+	border: 1px solid #eee;
+}
+
+
